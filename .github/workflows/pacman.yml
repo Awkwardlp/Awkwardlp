@@ -20,6 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PAT_TOKEN || github.token }}
 
       - name: Publish pacman SVGs to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
