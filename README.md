@@ -1,7 +1,7 @@
 ![Header](./img/github-header-banner.png)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,php,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue,blender,figma,ps,ai,lightroom,premierepro&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,php,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue,blender,figma,ps,ai,lr,pp&theme=dark&perline=8)](https://skillicons.dev)
 <br/>
 ## About Me
 
